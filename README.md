@@ -43,6 +43,7 @@ Simulation report including waveform snapshots and result logs.
 #ADDITION ,SUBTRACTION
 
 <img width="668" height="354" alt="Capture2" src="https://github.com/user-attachments/assets/9a323f9a-2f57-4d47-923b-b4875bbc1564" />
+
 #AND, OR, NOT
 
 <img width="667" height="356" alt="capture3" src="https://github.com/user-attachments/assets/a1a3dc9c-7c1a-4743-8276-0d3b7d2513ef" />
